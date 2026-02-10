@@ -6,6 +6,7 @@ I'm a passionate software engineer with a love for learning and problem-solving.
 - C++
 - Object-Oriented Programming
 - Problem-solving algorithms
+- Data Structure
 
 ## 🚀 Projects
 Check out my repositories for some of the projects I’m working on:
@@ -13,7 +14,7 @@ Check out my repositories for some of the projects I’m working on:
 - [Practice](https://github.com/AmgedMoaz/practice)
 
 ## 📫 How to reach me:
-- Email: [amgedmoaz@gmail.com](mailto:amgedmoaz@gmail.com)
-- LinkedIn: [Amged Moaz](https://www.linkedin.com/in/amged-moaz-76/)
+- Email: [amgedmoaz@gmail.com](mailto:amgedmoaz7@gmail.com)
+- LinkedIn: [Amged Moaz](https://www.linkedin.com/in/amged-moaz-767926390)
 
 Feel free to check out my projects and collaborate! 🚀
