@@ -11,7 +11,6 @@ I'm a passionate software engineer with a love for learning and problem-solving.
 ## 🚀 Projects
 Check out my repositories for some of the projects I’m working on:
 - [Solving-Problems](https://github.com/AmgedMoaz/Solving-Problems)
-- [Practice](https://github.com/AmgedMoaz/practice)
 
 ## 📫 How to reach me:
 - Email: [amgedmoaz@gmail.com](mailto:amgedmoaz7@gmail.com)
